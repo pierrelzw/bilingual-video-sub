@@ -1,0 +1,10 @@
+{
+  "name": "bilingual-video-sub",
+  "version": "0.1.0",
+  "description": "Bilingual Chinese+English subtitle pipeline — YouTube/local video → EN SRT + ZH SRT + burned 720×1280 mp4",
+  "author": { "name": "pierrelzw" },
+  "repository": "https://github.com/pierrelzw/bilingual-video-sub",
+  "license": "MIT",
+  "keywords": ["subtitles", "video", "whisper", "translation", "bilingual", "ffmpeg"],
+  "skills": ["./SKILL.md"]
+}
