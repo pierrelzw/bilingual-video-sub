@@ -1,0 +1,31 @@
+{
+  "name": "bilingual-video-sub",
+  "owner": {
+    "name": "pierrelzw"
+  },
+  "metadata": {
+    "description": "Single-plugin marketplace for bilingual-video-sub"
+  },
+  "plugins": [
+    {
+      "name": "bilingual-video-sub",
+      "source": "./.",
+      "description": "Bilingual Chinese+English subtitle pipeline — YouTube/local video → EN SRT + ZH SRT + burned 720×1280 mp4",
+      "version": "0.1.0",
+      "author": {
+        "name": "pierrelzw"
+      },
+      "repository": "https://github.com/pierrelzw/bilingual-video-sub",
+      "license": "MIT",
+      "keywords": [
+        "subtitles",
+        "video",
+        "whisper",
+        "translation",
+        "bilingual",
+        "ffmpeg"
+      ],
+      "category": "media-tools"
+    }
+  ]
+}
