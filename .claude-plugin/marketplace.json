@@ -11,7 +11,7 @@
       "name": "bilingual-video-sub",
       "source": "./.",
       "description": "Bilingual Chinese+English subtitle pipeline — YouTube/local video → EN SRT + ZH SRT + burned 720×1280 mp4",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "pierrelzw"
       },
